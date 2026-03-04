@@ -1,5 +1,5 @@
 
-# 🏬 Data processing and visualization dependencies
+## 🏬 Data processing and visualization dependencies
 
 - **pandas**
 - **streamlit**
