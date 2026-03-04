@@ -1,0 +1,7 @@
+
+# 🏬 Data processing and visualization dependencies
+
+- **pandas**
+- **streamlit**
+- **faker**
+- **matplotlib**
